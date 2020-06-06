@@ -1,6 +1,5 @@
-theme: jekyll-theme-midnight
-title: Welcome to the Lucas Davys' homepage!
-description: I'm just learning how to use GitHub
+## Welcome to the Lucas Davys' homepage!
+I'm just learning how to use GitHub
 
 ## Welcome to GitHub Pages
 
